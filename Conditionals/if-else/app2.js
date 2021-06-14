@@ -4,8 +4,8 @@ Add both and return true if both are equal to 11. Otherwise, return false, if th
 
 */
 
-let number1, number2;
-let sum = number1 + number2;
+let num1 = 4, num2 = 7;
+let sum = num1 + num2;
 
 if (sum == 11){
 console.log("True");
