@@ -5,7 +5,7 @@ Convert it to ‘Kolachi’ (Hint: Need to look at appropriate indices and repla
 
 */
 
-let city =  "Karachi"
+let city =  "Karachi";
 
 console.log("Given String: " + city);
 console.log("Replaced String: " + city.replace('ar', 'ol'));
