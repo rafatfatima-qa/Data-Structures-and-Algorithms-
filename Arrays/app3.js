@@ -4,7 +4,7 @@ Can you find out how many times 2 occurs in this array and return the count of i
 
 */
 
-let myArray = [2,2,2,2,2,2,2,,2,1,0,9,39,2,2,2,2,2,20];
+let myArray = [2, 2, 1, 0, 9, 39, 20];
 let count = 0;
 
 /* By For Loop */
@@ -18,7 +18,7 @@ for (let i=0; i < myArray.length; i++){
     
 }
 
-console.log("repeatation of 2 is: ", count);
+console.log("Repetition of 2 is: ", count);
 
 /* By While Loop */
 
@@ -34,4 +34,4 @@ while (j < myArray.length){
     j++;
     
 }
-console.log("repeatation of 2 is: ", repeat);
+console.log("Repetition of 2 is: ", repeat);

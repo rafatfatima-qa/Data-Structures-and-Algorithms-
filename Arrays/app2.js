@@ -40,13 +40,3 @@ while (j < myArray.length){
     }
     j++;
 }
-
-// let answer;
-// if (answer = true){
-
-//     console.log("true, 3 is in the array");
-// }
-
-// else {
-//     console.log("false"); 
-// }
